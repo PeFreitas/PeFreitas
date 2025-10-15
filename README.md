@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Freitas
+# 👨‍💻 Pedro Freitas
 
 **`Desenvolvedor FullStack`**
 
