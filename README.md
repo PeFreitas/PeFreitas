@@ -1,7 +1,9 @@
 # 👨‍💻 Pedro Freitas
 
 **`Desenvolvedor FullStack`**
-
+  I am an enthusiastic and determined full-stack developer with over six months of experience. 
+  I have worked on several projects for my current company and on personal initiatives. Throughout my career, I have focused on studying and perfecting my skills and experience. All of my projects are listed on my GitHub, showcasing my skills with technologies like Node.js, TypeScript, Python, Java, Docker, AWS, React, Angular, PostgreSQL, MongoDB, and much more.
+  I am dedicated to building scalable and high-performance applications that make a real impact.
 
 ---
 
